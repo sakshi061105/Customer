@@ -6,4 +6,9 @@ public class Customer {
 	{
 		System.out.println("Customer Added");
 	}
+	public void removeCustomer()
+	{
+		System.out.println("Customer Removed");
+	}
+	
 }
